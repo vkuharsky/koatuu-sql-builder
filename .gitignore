@@ -1,0 +1,7 @@
+# Build folder
+/dist-newstyle
+
+# Local files
+cabal.project.local
+KoatuuSqlBuilder.code-workspace
+
